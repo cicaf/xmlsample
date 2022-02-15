@@ -1,0 +1,13 @@
+<?xml version='1.0'?>
+<inventory>
+    <cheese id="c01">
+        <name>Caerphilly</name>
+        <stock>0</stock>
+    </cheese>
+
+    <cheese id="c02">
+        <name>lllchester</name>
+        <stock>0</stock>
+    </cheese>
+
+</inventory>
